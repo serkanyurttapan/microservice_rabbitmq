@@ -1,0 +1,17 @@
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/bin/Debug/net7.0/Producer
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/bin/Debug/net7.0/Producer.deps.json
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/bin/Debug/net7.0/Producer.runtimeconfig.json
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/bin/Debug/net7.0/Producer.dll
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/bin/Debug/net7.0/Producer.pdb
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/Producer.csproj.AssemblyReference.cache
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/Producer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/Producer.AssemblyInfoInputs.cache
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/Producer.AssemblyInfo.cs
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/Producer.csproj.CoreCompileInputs.cache
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/Producer.csproj.CopyComplete
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/Producer.dll
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/refint/Producer.dll
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/Producer.pdb
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/Producer.genruntimeconfig.cache
+/Users/serkan.yurttapan/RiderProjects/microservice_rabbitmq/Producer/obj/Debug/net7.0/ref/Producer.dll
